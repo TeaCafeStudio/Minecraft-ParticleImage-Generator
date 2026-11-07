@@ -1,4 +1,4 @@
-[English](README.md) | [简体中文](README_CN.md)
+[English](README_EN.md) | [简体中文](README.md)
 # Minecraft 粒子图片函数包生成器
 
 [![GitHub Stars](https://img.shields.io/github/stars/TeaCafeStudio/Minecraft-ParticleImage-Generator?style=flat-square)](https://github.com/TeaCafeStudio/Minecraft-ParticleImage-Generator/stargazers)

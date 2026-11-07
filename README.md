@@ -2,10 +2,10 @@
 
 # Minecraft Particle Image Generator
 
-[![GitHub Stars](https://img.shields.io/github/stars/Cheeses233/MinecraftParticleImageGenerator?style=flat-square)](https://github.com/Cheeses233/MinecraftParticleImageGenerator/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/Cheeses233/MinecraftParticleImageGenerator?style=flat-square)](https://github.com/Cheeses233/MinecraftParticleImageGenerator/network/members)
-[![GitHub Issues](https://img.shields.io/github/issues/Cheeses233/MinecraftParticleImageGenerator?style=flat-square)](https://github.com/Cheeses233/MinecraftParticleImageGenerator/issues)
-[![GitHub Releases](https://img.shields.io/github/v/release/Cheeses233/MinecraftParticleImageGenerator?style=flat-square)](https://github.com/Cheeses233/MinecraftParticleImageGenerator/releases)
+[![GitHub Stars](https://img.shields.io/github/stars/TeaCafeStudio/Minecraft-ParticleImage-Generator?style=flat-square)](https://github.com/TeaCafeStudio/Minecraft-ParticleImage-Generator/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/TeaCafeStudio/Minecraft-ParticleImage-Generator?style=flat-square)](https://github.com/TeaCafeStudio/Minecraft-ParticleImage-Generator/network/members)
+[![GitHub Issues](https://img.shields.io/github/issues/TeaCafeStudio/Minecraft-ParticleImage-Generator?style=flat-square)](https://github.com/TeaCafeStudio/Minecraft-ParticleImage-Generator/issues)
+[![GitHub Releases](https://img.shields.io/github/v/release/TeaCafeStudio/Minecraft-ParticleImage-Generator?style=flat-square)](https://github.com/TeaCafeStudio/Minecraft-ParticleImage-Generator/releases)
 
 **A Minecraft Java Edition particle image datapack generator.**
 

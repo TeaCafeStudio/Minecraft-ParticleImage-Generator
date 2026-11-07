@@ -1,4 +1,4 @@
- [简体中文](README.md) \| [English](README_EN.md) \|[日本語](README_JA.md) \|
+ [简体中文](README.md) \| [English](README_EN.md) \|[日本語](README_JA.md)
 
 # Minecraft パーティクル画像データパック生成ツール
 

@@ -1,5 +1,10 @@
 # Minecraft 粒子图片函数包生成器
 
+[![GitHub Stars](https://img.shields.io/github/stars/TeaCafeStudio/Minecraft-ParticleImage-Generator?style=flat-square)](https://github.com/TeaCafeStudio/Minecraft-ParticleImage-Generator/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/TeaCafeStudio/Minecraft-ParticleImage-Generator?style=flat-square)](https://github.com/TeaCafeStudio/Minecraft-ParticleImage-Generator/network/members)
+[![GitHub Issues](https://img.shields.io/github/issues/TeaCafeStudio/Minecraft-ParticleImage-Generator?style=flat-square)](https://github.com/TeaCafeStudio/Minecraft-ParticleImage-Generator/issues)
+[![GitHub Releases](https://img.shields.io/github/v/release/TeaCafeStudio/Minecraft-ParticleImage-Generator?style=flat-square)](https://github.com/TeaCafeStudio/Minecraft-ParticleImage-Generator/releases)
+
 本程序由Copilot-GPT3.5协助开发，如有问题请提交Issue！
 Windows 桌面程序：将 PNG、GIF 和 APNG 转成 Minecraft Java Edition Datapack ZIP。界面使用 PySide6；动画解析、粒子模拟、性能预设、风险预测、版本命令和 ZIP 构建分别位于独立模块。
 

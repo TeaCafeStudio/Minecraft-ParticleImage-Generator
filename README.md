@@ -20,17 +20,6 @@ If you encounter any problems, please submit an Issue!
 
 ---
 
-## 🔗 Project Links
-
-| Resource | Link |
-|-|-|
-| ⭐ Star this project | https://github.com/Cheeses233/MinecraftParticleImageGenerator |
-| 🍴 Fork this project | https://github.com/Cheeses233/MinecraftParticleImageGenerator/fork |
-| 🐛 Report an Issue | https://github.com/Cheeses233/MinecraftParticleImageGenerator/issues |
-| 📦 Releases | https://github.com/Cheeses233/MinecraftParticleImageGenerator/releases |
-
----
-
 # ✨ Features
 
 ## Image to Minecraft Particle Model
